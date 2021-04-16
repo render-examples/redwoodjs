@@ -13,9 +13,10 @@
     ]
   },
   "dependencies": {
-    "@redwoodjs/forms": "^0.29.0",
-    "@redwoodjs/router": "^0.29.0",
-    "@redwoodjs/web": "^0.29.0",
+    "@redwoodjs/auth": "https://rw-pr-redwoodjs-com.s3.amazonaws.com/2099/redwoodjs-auth-0.30.0-ad6871a.tgz",
+    "@redwoodjs/forms": "https://rw-pr-redwoodjs-com.s3.amazonaws.com/2099/redwoodjs-forms-0.30.0-ad6871a.tgz",
+    "@redwoodjs/router": "https://rw-pr-redwoodjs-com.s3.amazonaws.com/2099/redwoodjs-router-0.30.0-ad6871a.tgz",
+    "@redwoodjs/web": "https://rw-pr-redwoodjs-com.s3.amazonaws.com/2099/redwoodjs-web-0.30.0-ad6871a.tgz",
     "prop-types": "^15.7.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
