@@ -3147,7 +3147,7 @@
     tiny-warning "^1.0.3"
     tslib "^2.1.0"
 
-"@redwoodjs/api-server@^0.33.0", "@redwoodjs/api-server@^0.33.2":
+"@redwoodjs/api-server@^0.33.2":
   version "0.33.2"
   resolved "https://registry.yarnpkg.com/@redwoodjs/api-server/-/api-server-0.33.2.tgz#a14c01ef5e6ff7047f021822baf48097572bac46"
   integrity sha512-S2aSAU6N4k6bBdPm02TmFMXH51RyL9QB6NiZ0A2KUjlhCT7cPtPka+i+5FUdn1p+wVnZtnPphe8OICqKlnZYgQ==
@@ -3165,7 +3165,7 @@
     youch "2.2.2"
     youch-terminal "1.1.1"
 
-"@redwoodjs/api@^0.33.0":
+"@redwoodjs/api@^0.33.2":
   version "0.33.2"
   resolved "https://registry.yarnpkg.com/@redwoodjs/api/-/api-0.33.2.tgz#2a824b10a121f2784888abc10d33c12e2edd87ff"
   integrity sha512-KHij5M4wuznUXKQ1CkHE4/6ryHlDMT/I9h/zm1YGXqHa/LRWoU6a5oBpfJtifE0S9D0gW757HCTf/zH2qbAVWw==
@@ -3184,7 +3184,7 @@
     pino "6.11.3"
     pino-pretty "4.8.0"
 
-"@redwoodjs/auth@^0.33.0", "@redwoodjs/auth@^0.33.2":
+"@redwoodjs/auth@^0.33.2":
   version "0.33.2"
   resolved "https://registry.yarnpkg.com/@redwoodjs/auth/-/auth-0.33.2.tgz#412f59c2bb21f57e9588937772d2eaf70422501e"
   integrity sha512-2er7xKTJ+MIvPYf4+h/LC96Ng6CtvBZJCFBG0Wt1aYzJfT59XuJhAKjivaBYEieTkydbJT2gfqeDjZZK4hWjiQ==
@@ -3224,7 +3224,7 @@
     terminal-link "2.1.1"
     yargs "16.0.3"
 
-"@redwoodjs/core@^0.33.0":
+"@redwoodjs/core@^0.33.2":
   version "0.33.2"
   resolved "https://registry.yarnpkg.com/@redwoodjs/core/-/core-0.33.2.tgz#011c3167246043c38298de96f35478392cf09d35"
   integrity sha512-j1UATTX42Vkn1vwijamJBoJLVExyRB7bGOAWCTZmAuZQHOXnfhbx1AuDWpqQ510iDSJX/S2xpt/LUS4ZNTGDcg==
@@ -3337,7 +3337,7 @@
   resolved "https://registry.yarnpkg.com/@redwoodjs/eslint-plugin-redwood/-/eslint-plugin-redwood-0.33.2.tgz#40e94b7beba8972ad39d5bbcc71c27700c336550"
   integrity sha512-Q9C06o+repHqRz6AEqKy8dSN5kPWdBDZak0Tcyu8UYX1BHheFHWOKc1fgLfXXAmRLsh82mKWy6nB+4v8MdJWnQ==
 
-"@redwoodjs/forms@^0.33.0":
+"@redwoodjs/forms@^0.33.2":
   version "0.33.2"
   resolved "https://registry.yarnpkg.com/@redwoodjs/forms/-/forms-0.33.2.tgz#6e0bab559b1a29a5d3de7cce3f79b293db404558"
   integrity sha512-4o3hMC21UCp3m/K4KJo20JeN0fsKQyrvWq+ce+L5VoMDWbSJpMJuElPZNsZULf16as0gCnJCE+/DThM1xb6aXA==
@@ -3386,7 +3386,7 @@
     babel-plugin-ignore-html-and-css-imports "0.1.0"
     node-fetch "2.6.1"
 
-"@redwoodjs/router@^0.33.0", "@redwoodjs/router@^0.33.2":
+"@redwoodjs/router@^0.33.2":
   version "0.33.2"
   resolved "https://registry.yarnpkg.com/@redwoodjs/router/-/router-0.33.2.tgz#91f28c42b8ad1dea94b54c0053308a4691573cf2"
   integrity sha512-ysbvoHr7dWdrP7Ip5gUinoybOP24OWTueXsniU67wcBXx1KNKpLCgsh5eCA4bntZeYyybCE6uuc2xrUfaXGVOw==
@@ -3436,7 +3436,7 @@
     "@types/react" "17.0.9"
     msw "0.29.0"
 
-"@redwoodjs/web@^0.33.0", "@redwoodjs/web@^0.33.2":
+"@redwoodjs/web@^0.33.2":
   version "0.33.2"
   resolved "https://registry.yarnpkg.com/@redwoodjs/web/-/web-0.33.2.tgz#3d8663927e1563821018979794281f69d5d8bf98"
   integrity sha512-8yYXoFgWNDtBJI/jdkPP4U6bWFycMMe+NPG5vRqt/d8I/CAqUJyuFwpIb2ml6AQx2D5bF6QH98IlxsJoMPbabQ==
